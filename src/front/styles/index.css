@@ -1,3 +1,22 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+.container-form{
+    background-image: url('https://img.freepik.com/vector-gratis/bonito-fondo-borroso-atardecer_1048-2751.jpg');  
+    background-size: 100% auto; /* Ajusta el tamaño de la imagen al 100% del ancho */  
+    background-repeat: no-repeat; /* Evita que la imagen se repita */  
+}
+.container-forn {
+    border-radius: 10px !important; 
+}
+.siderbar {
+    border-radius: 2rem;
+    border: solid #fff 4px;
+}
+.ul-siderbar {
+    border-radius: 2rem;
+    border: solid #fff 4px;
+}
+.container {
+    overflow-x: hidden; /* Agregar esta línea */
+}
